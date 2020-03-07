@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'fulboargenta';
-    src: url('fulbo-argenta-webfont.woff2') format('woff2'),
-         url('fulbo-argenta-webfont.woff') format('woff');
+    src: url('fonts/fulbo-argenta-webfont.woff2') format('woff2'),
+         url('fonts/fulbo-argenta-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -9,8 +9,8 @@
 @font-face 
 {
     font-family: 'alataregular';
-    src: url('alata-regular-webfont.woff2') format('woff2'),
-         url('alata-regular-webfont.woff') format('woff');
+    src: url('fonts/alata-regular-webfont.woff2') format('woff2'),
+         url('fonts/alata-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
